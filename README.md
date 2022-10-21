@@ -10,8 +10,8 @@
   <img width="100%" src="https://github.com/Gorilla-Lab-SCUT/tango/blob/main/tango_assets/stylization.gif"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="./tango_assets/method.jpg"/>
-</p>
+</p> -->
 
 <p align="center"> We are working on releasing the code 🏗️ 🚧 🔨</p>
