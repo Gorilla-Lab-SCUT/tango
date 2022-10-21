@@ -7,6 +7,10 @@
 #### <p align="center">[Paper](http://arxiv.org/abs/2210.11277) | [Project Page](http://cyw-3d.github.io/tango) </p>
 
 <p align="center">
+  <img width="100%" src="https://github.com/Gorilla-Lab-SCUT/tango/blob/main/tango_assets/stylization.gif"/>
+</p>
+
+<p align="center">
   <img width="100%" src="./tango_assets/method.jpg"/>
 </p>
 
