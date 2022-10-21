@@ -7,7 +7,7 @@
 #### <center>[Paper](http://arxiv.org/abs/2210.11277) | [Project Page](http://cyw-3d.github.io/tango)
 
 <p align="center">
-  <img width="100%" src="/tango_assets/method.jpg"/>
+  <img width="100%" src="./tango_assets/method.jpg"/>
 </p>
 
 <center> We are working on releasing the code 🏗️ 🚧 🔨</center>
