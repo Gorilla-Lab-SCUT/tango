@@ -20,7 +20,7 @@ docker pull registry.cn-shenzhen.aliyuncs.com/baopin/t2m:1.7
 ### System Requirements
 - Python 3.7
 - CUDA 11
-- GPU w/ minimum 12 GB ram
+- Nvidia GPU with 12 GB ram at least
 
 ### Train
 Call the below shell scripts to generate example styles. 
