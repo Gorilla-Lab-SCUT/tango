@@ -1,0 +1,27 @@
+python main.py \
+--run branch \
+--obj_path data/source_meshes/vase.obj \
+--output_dir results/demo/vase/wicker1 \
+--prompt an image of a vase made of wicker \
+--init_r_and_s \
+--init_roughness 0.5 \
+--normal_nerf_pe_numfreq 10 \
+--width 512 \
+--local_percentage 0.7 \
+--background 'black' \
+--radius 2  \
+--n_views 1 \
+--material_random_pe_sigma 20 \
+--material_random_pe_numfreq 256 \
+--num_lgt_sgs 32 \
+--n_normaugs 6 \
+--n_augs 1 \
+--frontview_std 8 \
+--clipavg view \
+--lr_decay 0.7 \
+--mincrop 0.05 \
+--maxcrop 0.2 \
+--seed 160 \
+--n_iter 1501 \
+--learning_rate 0.0005 \
+--frontview_center 1.96349 0.6283

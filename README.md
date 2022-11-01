@@ -10,8 +10,52 @@
   <img width="100%" src="https://github.com/Gorilla-Lab-SCUT/tango/blob/main/tango_assets/stylization.gif"/>
 </p>
 
+### Installation
+
+**Note:** You can directly pull the image we uploaded to AliCloud
+```
+docker pull registry.cn-shenzhen.aliyuncs.com/baopin/t2m:1.7
+```
+
+### System Requirements
+- Python 3.7
+- CUDA 11
+- GPU w/ minimum 12 GB ram
+
+### Train
+Call the below shell scripts to generate example styles. 
+```bash
+# shoe made of gold
+./demo/run_shoe_gold.sh
+# vase made of wicker 
+./demo/run_vase_crochet.sh
+# car made of wood
+./demo/run_car_wood_origin.sh
+# ...
+```
+The outputs will be saved to `results/demo`
+
+### Validate
+Call the below shell scripts to generate gif. 
+```bash
+# shoe made of gold
+./demo/test_shoe_gold.sh
+# vase made of wicker 
+./demo/test_vase_crochet.sh
+# car made of wood
+./demo/test_car_wood_origin.sh
+# ...
+```
 <!-- <p align="center">
   <img width="100%" src="./tango_assets/method.jpg"/>
 </p> -->
 
-<p align="center"> We are working on releasing the code 🏗️ 🚧 🔨</p>
+## Citation
+```
+@inproceedings{ChenChenNeurIPS22,
+  title={TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition},
+  author={Yongwei Chen and Rui Chen and Jiabao Lei and Yabin Zhang and Kui Jia},
+  booktitle={Proceedings of the Neural Information Processing Systems (NeurIPS)},
+  year={2022}
+}
+```
