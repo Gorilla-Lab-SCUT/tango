@@ -1,5 +1,4 @@
 python main.py \
---run branch \
 --obj_path data/source_meshes/vase.obj \
 --output_dir results/demo/vase/wicker1 \
 --prompt an image of a vase made of wicker \
