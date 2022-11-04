@@ -1,6 +1,6 @@
 python eval.py  \
 --obj_path data/source_meshes/shoe.obj \
---output_dir results/demo/shoe/gold1111 \
+--output_dir results/demo/shoe/gold \
 --prompt "a shoe made of gold" \
 --init_r_and_s \
 --init_roughness 0.3 \
@@ -25,5 +25,5 @@ python eval.py  \
 --n_iter 501  \
 --learning_rate 0.0005  \
 --frontview_center 0.5 0.6283 \
---model_dir results/demo/shoe/gold1111/iter500.pth \
+--model_dir results/demo/shoe/gold/iter500.pth \
 --render_gif
