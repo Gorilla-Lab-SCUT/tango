@@ -182,7 +182,7 @@ class svbrdf_network(nn.Module):
         specular_reflectacne = (specular_reflectacne+1)/2
         
         diffuse_albedo = self.mlp_diffuse[0](x)
-        for layer in self.mlp_specular[1:]:
+        for layer in self.mlp_diffuse[1:]:
             diffuse_albedo = layer(diffuse_albedo)
         diffuse_albedo = (diffuse_albedo+1)/2
         
