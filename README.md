@@ -10,7 +10,7 @@
   <img width="100%" src="https://github.com/Gorilla-Lab-SCUT/tango/blob/main/tango_assets/stylization.gif"/>
 </p>
 
-#### News
+### News
 :trophy: **[Nov 11th 2022]** TANGO was selected  in NeurIPS *[spotlight papers](https://nips.cc/Conferences/2022/Schedule?type=Spotlight)*.
 
 ### Installation
