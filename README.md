@@ -2,7 +2,7 @@
 
  #####  <p align="center"> [Yongwei Chen](https://cyw-3d.github.io/), Rui Chen, [Jiabao Lei](https://jblei.site/), [Yabin Zhang](https://ybzh.github.io/), [Kui Jia](http://kuijia.site/)</p>
 
-#### <p align="center"> NeurIPS 2022 <font color=#dd0000>*Spotlight*</font><br /></p>
+#### <p align="center"> NeurIPS 2022 <font color=#dd0000>*Spotlight*</font></p>
 
 #### <p align="center">[Paper](http://arxiv.org/abs/2210.11277) | [Project Page](http://cyw-3d.github.io/tango) </p>
 
