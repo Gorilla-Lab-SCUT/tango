@@ -2,13 +2,16 @@
 
  #####  <p align="center"> [Yongwei Chen](https://cyw-3d.github.io/), Rui Chen, [Jiabao Lei](https://jblei.site/), [Yabin Zhang](https://ybzh.github.io/), [Kui Jia](http://kuijia.site/)</p>
 
-#### <p align="center"> NeurIPS 2022 </p>
+#### <p align="center"> NeurIPS 2022 <font color=#dd0000>*Spotlight*</font><br /></p>
 
 #### <p align="center">[Paper](http://arxiv.org/abs/2210.11277) | [Project Page](http://cyw-3d.github.io/tango) </p>
 
 <p align="center">
   <img width="100%" src="https://github.com/Gorilla-Lab-SCUT/tango/blob/main/tango_assets/stylization.gif"/>
 </p>
+
+#### News
+:trophy: **[Nov 11th 2022]** TANGO was selected  in NeurIPS *[spotlight papers](https://nips.cc/Conferences/2022/Schedule?type=Spotlight)*.
 
 ### Installation
 
