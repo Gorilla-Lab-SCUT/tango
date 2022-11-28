@@ -33,7 +33,7 @@ Call the below shell scripts to generate example styles.
 # shoe made of gold
 ./demo/run_shoe_gold.sh
 # vase made of wicker 
-./demo/run_vase_crochet.sh
+./demo/run_vase_wicker.sh
 # car made of wood
 ./demo/run_car_wood_origin.sh
 # ...
@@ -46,7 +46,7 @@ Call the below shell scripts to generate gif.
 # shoe made of gold
 ./demo/test_shoe_gold.sh
 # vase made of wicker 
-./demo/test_vase_crochet.sh
+./demo/test_vase_wicker.sh
 # car made of wood
 ./demo/test_car_wood_origin.sh
 # ...
