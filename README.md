@@ -21,9 +21,11 @@ docker pull registry.cn-shenzhen.aliyuncs.com/baopin/t2m:1.7
 ```
 
 ### System Requirements
-- Python 3.7
+- Python >=3.7
 - CUDA 11
 - Nvidia GPU with 12 GB ram at least
+- Open3d >=0.14.1
+- the package of clip (https://github.com/openai/CLIP)
 
 ### Train
 Call the below shell scripts to generate example styles. 
