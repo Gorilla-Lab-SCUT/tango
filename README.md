@@ -21,7 +21,7 @@ docker pull registry.cn-shenzhen.aliyuncs.com/baopin/t2m:1.7
 ```
 
 ### System Requirements
-- Python >=3.7
+- Python >=3.7 and <=3.9
 - CUDA 11
 - Nvidia GPU with 12 GB ram at least
 - Open3d >=0.14.1
