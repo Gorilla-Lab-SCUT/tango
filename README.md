@@ -57,10 +57,12 @@ Call the below shell scripts to generate gif.
 
 ## Citation
 ```
-@inproceedings{ChenChenNeurIPS22,
-  title={TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition},
-  author={Yongwei Chen and Rui Chen and Jiabao Lei and Yabin Zhang and Kui Jia},
-  booktitle={Proceedings of the Neural Information Processing Systems (NeurIPS)},
+@article{chen2022tango,
+  title={Tango: Text-driven photorealistic and robust 3d stylization via lighting decomposition},
+  author={Chen, Yongwei and Chen, Rui and Lei, Jiabao and Zhang, Yabin and Jia, Kui},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={30923--30936},
   year={2022}
 }
 ```
